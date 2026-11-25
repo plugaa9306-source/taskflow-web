@@ -1,0 +1,1 @@
+var e={ליונט:`smartphone`,עכבר:`binoculars`,עקילה:`scope`},t=t=>e[String(t??``).trim()]??``;export{t};
